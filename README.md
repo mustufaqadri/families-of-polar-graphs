@@ -26,9 +26,13 @@ The program is capable of drawing the curves listed below:
 9.	  Rose Curves
 10.	  Cardioids and Limacons
 11.	  Spirals: 
+
       •	Archimedean Spiral
+      
       •	Hyperbolic  Spiral
+      
       •	Parabolic Spiral
+      
       •	Lituus Spiral
 
 Tools Used:
