@@ -1,0 +1,2 @@
+# families-of-polar-graphs
+As per given instructions our group has written a general program to plot various polar curves. The purpose of the program is to provide assistance to the user while dealing with polar curves of different shapes. The user will be able to draw the curves just by providing the required values of variables involved in the equations. Moreover, user can examine the behaviour of curves by changing values of variables.   
