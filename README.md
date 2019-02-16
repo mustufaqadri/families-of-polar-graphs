@@ -63,6 +63,10 @@ b. http://jwilson.coe.uga.edu/emt668/EMAT6680.2003.fall/Shiver/assignment11/Pola
 
 c. http://www.maplesoft.com/applications/view.aspx?SID=4087&view=html
 
+Tools Used :
+
+CodeBlocks 10.05
+with graphics library
 
 Group Members:
 
